@@ -1,0 +1,6 @@
+{
+  "name": "Cuteness.id - Trusted App Store",
+  "description": "Toko aplikasi premium terpercaya sejak 2023. Layanan digital bergaransi, hemat, dan cepat via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
